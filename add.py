@@ -1,4 +1,4 @@
 a = 3
 b = 5
-
-print(a+b)
+g =  4
+print(g)
